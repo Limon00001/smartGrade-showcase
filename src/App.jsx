@@ -1,4 +1,6 @@
-import { data } from './data.js';
+import hero from "./assets/hero-graphics.svg";
+import lws from "./assets/lws-logo-en.svg";
+import { data } from "./data.js";
 
 function App() {
   return (
@@ -7,7 +9,7 @@ function App() {
       <nav className="py-6">
         <div className="container mx-auto flex items-center justify-between gap-x-6">
           <a href="/">
-            <img className="h-[40px]" src="assets/lws-logo-en.svg" alt="Lws" />
+            <img className="h-[40px]" src={lws} alt="Lws" />
           </a>
 
           <a className="px-5 py-2 bg-[#172227] rounded-[44px]" href="#">
@@ -23,7 +25,7 @@ function App() {
           <div className="grid md:grid-cols-2 items-center w-10/12 mx-auto">
             <img
               className="md:order-2 object-cover ml-auto animate-updown"
-              src="./assets/hero-graphics.svg"
+              src={hero}
               width="500px"
               height="500px"
               alt="Banner"
@@ -114,7 +116,7 @@ function App() {
                     first.percentage < second.percentage ? 1 : -1
                   )
                   .map((students) => {
-                    if (students.class === 'class-one') {
+                    if (students.class === "class-one") {
                       return (
                         <tr
                           key={students.id}
@@ -125,6 +127,13 @@ function App() {
                           </td>
                           <td className="p-5 text-sm md:text-xl">
                             <div className="flex space-x-3 items-center">
+                              <img
+                                class="w-8 h-8 rounded-full"
+                                src={students.image}
+                                width="32"
+                                height="32"
+                                alt={students.name}
+                              />
                               <span className="whitespace-nowrap">
                                 {students.name}
                               </span>
@@ -152,7 +161,7 @@ function App() {
                     first.percentage < second.percentage ? 1 : -1
                   )
                   .map((students) => {
-                    if (students.class === 'class-two') {
+                    if (students.class === "class-two") {
                       return (
                         <tr
                           key={students.id}
@@ -163,6 +172,13 @@ function App() {
                           </td>
                           <td className="p-5 text-sm md:text-xl">
                             <div className="flex space-x-3 items-center">
+                              <img
+                                class="w-8 h-8 rounded-full"
+                                src={students.image}
+                                width="32"
+                                height="32"
+                                alt={students.name}
+                              />
                               <span className="whitespace-nowrap">
                                 {students.name}
                               </span>

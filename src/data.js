@@ -2,6 +2,7 @@ export const data = [
   {
     id: 1,
     name: 'Zitella',
+    image: 'https://images.pexels.com/photos/18978811/pexels-photo-18978811/free-photo-of-young-redhead-in-a-leather-jacket-and-sunglasses-sitting-on-a-bench.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A',
     percentage: '91%',
     class: 'class-one',
@@ -9,6 +10,7 @@ export const data = [
   {
     id: 2,
     name: 'Hedda',
+    image: 'https://images.pexels.com/photos/4336082/pexels-photo-4336082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A-',
     percentage: '87%',
     class: 'class-two',
@@ -16,6 +18,7 @@ export const data = [
   {
     id: 3,
     name: 'Alleyn',
+    image: 'https://images.pexels.com/photos/3750717/pexels-photo-3750717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'C+',
     percentage: '69%',
     class: 'class-two',
@@ -23,6 +26,7 @@ export const data = [
   {
     id: 4,
     name: 'Vanda',
+    image: 'https://images.pexels.com/photos/3058391/pexels-photo-3058391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'B+',
     percentage: '82.2%',
     class: 'class-one',
@@ -30,6 +34,7 @@ export const data = [
   {
     id: 5,
     name: 'Darsey',
+    image: 'https://images.pexels.com/photos/3579181/pexels-photo-3579181.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'C',
     percentage: '63%',
     class: 'class-two',
@@ -37,6 +42,7 @@ export const data = [
   {
     id: 6,
     name: 'Lutero',
+    image: 'https://images.pexels.com/photos/3190334/pexels-photo-3190334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'D+',
     percentage: '54%',
     class: 'class-one',
@@ -44,6 +50,7 @@ export const data = [
   {
     id: 7,
     name: 'Joshua',
+    image: 'https://images.pexels.com/photos/3525908/pexels-photo-3525908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A',
     percentage: '95%',
     class: 'class-two',
@@ -51,6 +58,7 @@ export const data = [
   {
     id: 8,
     name: 'Dee dee',
+    image: 'https://images.pexels.com/photos/2690323/pexels-photo-2690323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A',
     percentage: '93%',
     class: 'class-one',
@@ -58,6 +66,7 @@ export const data = [
   {
     id: 9,
     name: 'Aleece',
+    image: 'https://images.pexels.com/photos/3119215/pexels-photo-3119215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'B',
     percentage: '77%',
     class: 'class-two',
@@ -65,6 +74,7 @@ export const data = [
   {
     id: 10,
     name: 'Lucho',
+    image: 'https://images.pexels.com/photos/3370021/pexels-photo-3370021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A',
     percentage: '96%',
     class: 'class-two',
@@ -72,6 +82,7 @@ export const data = [
   {
     id: 11,
     name: 'Jody',
+    image: 'https://images.pexels.com/photos/3209639/pexels-photo-3209639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'D',
     percentage: '48%',
     class: 'class-one',
@@ -79,6 +90,7 @@ export const data = [
   {
     id: 12,
     name: 'Amie',
+    image: 'https://images.pexels.com/photos/2766408/pexels-photo-2766408.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'F',
     percentage: '25%',
     class: 'class-one',
@@ -86,6 +98,7 @@ export const data = [
   {
     id: 13,
     name: 'Vivian',
+    image: 'https://images.pexels.com/photos/1937434/pexels-photo-1937434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'F',
     percentage: '40%',
     class: 'class-two',
@@ -93,6 +106,7 @@ export const data = [
   {
     id: 14,
     name: 'Thia',
+    image: 'https://images.pexels.com/photos/789303/pexels-photo-789303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A-',
     percentage: '85%',
     class: 'class-one',
@@ -100,6 +114,7 @@ export const data = [
   {
     id: 15,
     name: 'Neddie',
+    image: 'https://images.pexels.com/photos/19213291/pexels-photo-19213291/free-photo-of-young-woman-in-a-white-sweater-leaning-against-a-building-facade.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A-',
     percentage: '89%',
     class: 'class-two',
@@ -107,6 +122,7 @@ export const data = [
   {
     id: 16,
     name: 'Cooper',
+    image: 'https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'B+',
     percentage: '81%',
     class: 'class-one',
@@ -114,6 +130,7 @@ export const data = [
   {
     id: 17,
     name: 'Malina',
+    image: 'https://images.pexels.com/photos/19736246/pexels-photo-19736246/free-photo-of-young-brunette-woman-in-white-blouse-and-skirt.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'A-',
     percentage: '86%',
     class: 'class-two',
@@ -121,6 +138,7 @@ export const data = [
   {
     id: 18,
     name: 'Hamilton',
+    image: 'https://images.pexels.com/photos/19771925/pexels-photo-19771925/free-photo-of-portrait-of-man-in-black-t-shirt.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'C-',
     percentage: '57%',
     class: 'class-one',
@@ -128,6 +146,7 @@ export const data = [
   {
     id: 19,
     name: 'Elias',
+    image: 'https://images.pexels.com/photos/2531553/pexels-photo-2531553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'B-',
     percentage: '71%',
     class: 'class-two',
@@ -135,6 +154,7 @@ export const data = [
   {
     id: 20,
     name: 'Fran',
+    image: 'https://images.pexels.com/photos/4061512/pexels-photo-4061512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     scores: 'F',
     percentage: '30%',
     class: 'class-one',
