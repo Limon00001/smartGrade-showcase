@@ -27,8 +27,8 @@
 ## 📸 Project Screenshot :
 <a href="https://ibb.co/sFVTmD3"><img src="https://i.ibb.co/55RQMzc/banner.png" alt="SmartGrade Showcase" border="0"></a><br />
 <div style='display: flex; align-items: center'>
-  <a href="https://ibb.co/mtw66zw"><img src="https://i.ibb.co/y51WWs1/class-one.png" alt="class-one" border="0" width='45%'></a>
-  <a href="https://ibb.co/wQ6JXdX"><img src="https://i.ibb.co/qg10fDf/class-two.png" alt="class-two" border="0" width='45%'></a>
+  <a href="https://ibb.co/mtw66zw"><img src="https://i.ibb.co/dG4DGrT/class-one.png" alt="class-one" border="0" width='45%'></a>
+  <a href="https://ibb.co/wQ6JXdX"><img src="https://i.ibb.co/vHJFkFN/class-two.png" alt="class-two" border="0" width='45%'></a>
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 <br/>
 
 ## 📰 Description :
-This is a simple one page application. This template is made by *`HTML5, Tailwind CSS, React JS.`* Two classes of students available class-01 & class-02. Here we will learn how to dynamically display data from an object or an external file using React. Also see how we can sort data according to any condition.
+This is a simple one page application. This template is made by *`HTML5, Tailwind CSS, React JS.`* Two classes of students available class-01 & class-02. Here we will learn how to dynamically display data, images from an object or an external file using React. Also see how we can sort data according to any condition.
 
 <br />
 
